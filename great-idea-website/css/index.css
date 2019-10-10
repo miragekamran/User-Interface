@@ -157,18 +157,14 @@ h2 {
 }
 
 .p {
-	/* margin-left: 10px; */
-	
 	width: 100%;
 }
 
 .middle-img {
-	
 	margin-left: 450px;
 }
 
 .p2 {
-	
 	display: inline-block;
 	width: 15%;
 }
@@ -192,10 +188,7 @@ h2 {
 	margin-bottom: 10px;
 }
 
-
-
 footer {
-	
 	margin: 50px;
 	width: 100%;
 	text-align: center;
